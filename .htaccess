@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www\. [NC,OR]
+RewriteCond %{THE_REQUEST} /index\.html[?\s] [NC]
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+RewriteRule ^(.*?)(?:index\.html)?$ http://%1/$1 [L,R=301,NE,NC]

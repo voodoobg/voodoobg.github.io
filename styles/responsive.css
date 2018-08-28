@@ -1,0 +1,423 @@
+/* RESPONSIVE */
+
+
+/* Responsive 1800 */
+@media only screen 
+and (max-width : 1800px) {
+	.quoteTextPosition{
+	top: 20%;
+	}
+	.quoteTextStyle{
+	font-size: 45px;
+	line-height: 55px;
+	}
+	.headlinesHolder{ 
+	background-size: auto 100%;
+	}
+	#testimonialsMenuWrapp{
+	background-size: auto 100%;
+	}
+}
+
+/* Responsive 1600 */
+@media only screen 
+and (max-width : 1600px) {
+	.quoteTextPosition{
+	top: 16%;
+	}
+}
+
+/* Responsive 1500 */
+@media only screen 
+and (max-width : 1500px) {
+	.quoteTextStyle{
+	font-size: 40px;
+	line-height: 50px;
+	}
+}
+
+/* Responsive 1440 */
+@media only screen 
+and (max-width : 1440px) {
+	h5{
+	font-size: 30px;
+	}
+	h2{
+	font-size: 60px;
+	}
+	.plusButton{
+	margin-top: 3%;
+	}
+	.langBar{
+	right: 8%;
+	}
+}
+
+/* Responsive 1366 */
+@media only screen 
+and (max-width : 1366px) {
+	.quoteTextPosition{
+	top: 14%;
+	}
+	.plusButton{
+	margin-top: 3.5%;
+	}
+}
+
+/* Responsive 1300 */
+@media only screen 
+and (max-width : 1300px) {
+	.quoteTextStyle{
+	font-size: 35px;
+	line-height: 45px;
+	}
+	.articleText{
+	font-size: 20px;
+	line-height: 26px;
+	}
+	.courseThreeLinesHeadlineStyle{
+	height: 120px;
+	}
+}
+
+/* Responsive 1280 */
+@media only screen 
+and (max-width : 1280px) {
+	.quoteTextPosition{
+	top: 14%;
+	}
+	.quoteTextStyle{
+	font-size: 30px;
+	line-height: 40px;
+	}
+	h2{
+	font-size: 50px;
+	}
+	.leftArrow{
+	top: 26%;
+	}
+	.rightArrow{
+	top: 26%;
+	}
+}
+
+/* Responsive 1100 */
+@media only screen 
+and (max-width : 1100px) {
+	h5{
+	font-size: 25px;
+	}
+	.articleText{
+	font-size: 20px;
+	line-height: 20px;
+	}
+	.courseThreeLinesHeadlineStyle{
+	height: 150px;
+	}
+}
+
+/* Responsive 1024 */
+@media only screen 
+and (max-width : 1024px) {
+	.quoteTextPosition{
+	top: 10%;
+	}
+	.articleText{
+	font-size: 18px;
+	line-height: 18px;
+	}
+	.leftArrow{
+	top: 22%;
+	}
+	.rightArrow{
+	top: 22%;
+	}
+	.insideLogoStyle{
+	height: 100px !important;
+	width: auto;
+	}
+	.headerLogoStyle{
+	height: 100px;
+	}
+	.plusButton{
+	margin-top: 4%;
+	}
+	.langBar{
+	right: 9%;
+	}
+}
+
+/* Responsive 990 */
+@media only screen 
+and (max-width : 990px) {
+	.flexStyleSecond{
+	display: block;
+	}
+	.flexStyle{
+	display: block;
+	}
+	.quoteTextPosition{
+	top: 18%;
+	left: 24%;
+	right: 19%;
+	}
+	.quoteTextStyle{
+	font-size: 50px;
+	line-height: 60px;
+	}
+	.articleText{
+	font-size: 20px;
+	line-height: 30px;
+	}
+	h5{
+	font-size: 40px;
+	}
+	.imageTextBoxHolder{
+	background-size: 100% auto;
+	}
+	.leftArrowJustCourseOne{
+	top: 60%;
+	}
+	.rightArrowJustCourseOne{
+	top: 60%;
+	}
+	.leftArrowJustCourseTwo{
+	top: 60%;
+	}
+	.rightArrowJustCourseTwo{
+	top: 60%;
+	}
+	.testimonialBoxesHolder{
+	margin-bottom: 2%;
+	}
+	.contactBoxHolder{
+	margin-left: 0;
+	}
+	.contactFormStyle{
+	width: 100%;
+	}
+	.courseHeadlineStyle{
+	height: auto;
+	}
+	.courseThreeLinesHeadlineStyle{
+	height: auto;
+	}
+}
+
+/* Responsive 900 */
+@media only screen 
+and (max-width : 900px) {
+	.quoteTextPosition{
+	top: 20%;
+	}
+	.quoteTextStyle{
+	font-size: 45px;
+	line-height: 55px;
+	}
+	
+}
+
+/* Responsive 796 */
+@media only screen 
+and (max-width : 796px) {
+	.quoteTextPosition{
+	top: 12%;
+	}
+	.leftArrow{
+	top: 28%;
+	}
+	.rightArrow{
+	top: 28%;
+	}
+	.plusButton{
+	margin-top: 5%;
+	}
+}
+
+/* Responsive 768 */
+@media only screen 
+and (max-width : 768px) {
+	.quoteTextStyle{
+	font-size: 40px;
+	line-height: 50px;
+	}
+	.langBar{
+	right: 10%;
+	}
+}
+
+/* Responsive 670 */
+@media only screen 
+and (max-width : 670px) {
+	.quoteTextStyle{
+	font-size: 35px;
+	line-height: 45px;
+	}
+	.headerLogoStyle{
+	height: 80px;
+	}
+	.insideLogoStyle{
+	height: 80px !important;
+	}
+	.plusButton{
+	margin-top: 6%;
+	}
+}
+
+/* Responsive 600 */
+@media only screen 
+and (max-width : 600px) {
+	.quoteTextStyle{
+	font-size: 30px;
+	line-height: 40px;
+	}
+	h5{
+	font-size: 30px;
+	}
+	.plusButton{
+	margin-top: 7%;
+	}
+	.courseHeadlineStyle{
+	font-size: 25px;
+	line-height: 25px;
+	}
+	.courseThreeLinesHeadlineStyle{
+	font-size: 25px;
+	line-height: 25px;
+	}
+}
+
+/* Responsive 540 */
+@media only screen 
+and (max-width : 540px) {
+	.quoteTextPosition{
+	top: 16%;
+	}
+	.quoteTextStyle{
+	font-size: 28px;
+	line-height: 30px;
+	}
+	.articleText{
+	font-size: 18px;
+	line-height: 28px;
+	}
+	.langBar{
+	right: 11%;
+	}
+}
+
+/* Responsive 480 */
+@media only screen 
+and (max-width : 480px) {
+	h3{
+	font-size: 40px;
+	}
+	.imageTextBoxHolder{ 
+	background-size: 100% 100%;
+	}
+	.headerLogoStyle{
+	height: 60px;
+	}
+	.insideLogoStyle{
+	height: 60px !important;
+	}
+	.menuLogo{
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+	.menuButton{
+	top: 10px;
+	}
+	.langBar{
+	top: 14px;
+	right: 12%;
+	}
+	.fixedMenu{
+	height: 60px; 
+	}
+	.plusButton{
+	margin-top: 8%;
+	}
+}
+
+
+/* Responsive 440 */
+@media only screen 
+and (max-width : 440px) {
+	.floatL{
+	float: none;
+	text-align: center;
+	}
+	.floatR{
+	float: none;
+	text-align: center;
+	}
+	.quoteTextStyle{
+	font-size: 25px;
+	line-height: 25px;
+	}
+}
+
+/* Responsive 390 */
+@media only screen 
+and (max-width : 390px) {
+	.quoteTextPosition{
+	top: 15%;
+	}
+	.quoteTextStyle{
+	font-size: 20px;
+	line-height: 23px;
+	}
+	.menuHolder{
+	padding-left: 10%;	
+	padding-top: 10%
+	}
+}
+
+/* Responsive 320 */
+@media only screen 
+and (max-width : 320px) {
+	.quoteTextPosition{
+	top: 11%;
+	left: 22%;
+	right: 17%;
+	}
+	.quoteTextStyle{
+	font-size: 20px;
+	line-height: 20px;
+	}
+	.leftArrow{
+	top: 32%;
+	}
+	.rightArrow{
+	top: 32%;
+	}
+	.leftArrowJustCourseOne{
+	top: 65%;
+	}
+	.rightArrowJustCourseOne{
+	top: 65%;
+	}
+	.leftArrowJustCourseTwo{
+	top: 65%;
+	}
+	.rightArrowJustCourseTwo{
+	top: 65%;
+	}
+	.headerLogoStyle{
+	height: 50px;
+	}
+	.insideLogoStyle{
+	height: 50px !important;
+	}
+	.plusButton{
+	margin-top: 14%;
+	}
+	.langBar{
+	right: 13%;
+	}
+	.menusContainer{
+	font-size: 20px;
+	}
+}
