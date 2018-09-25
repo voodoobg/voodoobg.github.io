@@ -6,13 +6,23 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://uteam.smiah.net/</loc>
-  <lastmod>2018-04-03T09:03:11+00:00</lastmod>
+  <loc>http://uteam-bg.com/</loc>
+  <lastmod>2018-07-03T09:03:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://uteam.smiah.net/index_en.html</loc>
-  <lastmod>2018-04-03T08:48:54+00:00</lastmod>
+  <loc>http://uteam-bg.com/index_en.html</loc>
+  <lastmod>2018-07-03T08:48:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://uteam-bg.com/gdpr.html</loc>
+  <lastmod>2018-07-03T08:48:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://uteam-bg.com/gdpr_en.html</loc>
+  <lastmod>2018-07-03T08:48:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
