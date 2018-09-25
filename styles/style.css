@@ -194,6 +194,18 @@ h5,h2{
 .hpBackgroundStyle{
 	width: 100%;
 }
+.hpBackgroundStyle.mobile{
+	width: 100%;
+	display: none;
+}
+@media only screen and (max-device-width: 480px) {
+  .hpBackgroundStyle {
+    display: none;
+  }
+  .hpBackgroundStyle.mobile {
+    display: block;
+  }
+}
 .sloganImageStyle{
 	position: absolute;
 	z-index: 2;
